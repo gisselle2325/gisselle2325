@@ -14,5 +14,5 @@ Pregúntame sobre: **Soporte técnico, redes y macros de Excel**.
 - **Sistemas Operativos: ** Windows, Linux (básico).
 
 ##Cómo contactarme
-- **Correo:** iturbidelopezmelanie@gmail.com
+- **Correo:** rodriguezpedrozagisselle@gmail.com
 - **LinkedIn:** [Mi perfil](https://github.com/gisselle2325)
